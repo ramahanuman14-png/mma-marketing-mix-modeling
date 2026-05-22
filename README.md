@@ -15,3 +15,6 @@ Quantify ROI of each marketing channel and optimize budget allocation to maximiz
 - [ ] Phase 6 — Budget Optimization
 - [ ] Phase 7 — Power BI Dashboard
 - [ ] Phase 8 — GA4 & Forecasting
+
+## Live Dashboard
+[View MMM Dashboard on Looker Studio](https://datastudio.google.com/u/0/reporting/5f082c8d-b8c1-4c38-988b-dcfb81aa7d43/page/wG2yF)
